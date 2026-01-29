@@ -4,7 +4,7 @@
 
 ### Building robust web and mobile applications
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shiroe28.github.io/Sam-Works/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sam-works.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-richmond-go-25b0bb352)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sam.richmond.go@gmail.com)
 
@@ -122,7 +122,5 @@ I'm available for freelance projects, collaborations, and full-time opportunitie
 <div align="center">
   
 **💡 "Code is poetry written in logic."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
 
 </div>
